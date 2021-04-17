@@ -154,10 +154,10 @@ filterArtAugust = () => {
   console.log(filterData)
 }
 
-// filterNoPhone()
-// filterArticle()
-// filterHaveAnnis()
-// filterArt2020()
-// filterBorn1986()
-// filterTips()
+filterNoPhone()
+filterArticle()
+filterHaveAnnis()
+filterArt2020()
+filterBorn1986()
+filterTips()
 filterArtAugust()
